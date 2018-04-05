@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetMvcEsercitazione", "AspNetMvcEsercitazione\AspNetMvcEsercitazione.csproj", "{29F8FE99-8BD1-4C0B-B5F7-A9379F9A7409}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetMvcEsercitazione.Tests", "AspNetMvcEsercitazione.Tests\AspNetMvcEsercitazione.Tests.csproj", "{1BA27D89-52F6-48C5-B779-7B09BDC4A177}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29F8FE99-8BD1-4C0B-B5F7-A9379F9A7409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29F8FE99-8BD1-4C0B-B5F7-A9379F9A7409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29F8FE99-8BD1-4C0B-B5F7-A9379F9A7409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29F8FE99-8BD1-4C0B-B5F7-A9379F9A7409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BA27D89-52F6-48C5-B779-7B09BDC4A177}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BA27D89-52F6-48C5-B779-7B09BDC4A177}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BA27D89-52F6-48C5-B779-7B09BDC4A177}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BA27D89-52F6-48C5-B779-7B09BDC4A177}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34919160-833D-483F-BE3C-423557F7A462}
+	EndGlobalSection
+EndGlobal

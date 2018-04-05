@@ -7,6 +7,7 @@ using System.Web.Mvc;
 namespace AspNetMvcEsercitazione.Controllers {
     public class HomeController : Controller {
         public ActionResult Index() {
+            
             return View();
         }
 
@@ -18,6 +19,12 @@ namespace AspNetMvcEsercitazione.Controllers {
 
         public ActionResult Contact() {
             ViewBag.Message = "Your contact page.";
+
+            return View();
+        }
+
+        public ActionResult MyPage() {
+            ViewBag.prova = "This is my private page!";
 
             return View();
         }
